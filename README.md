@@ -1,6 +1,6 @@
 # Próximos temas
 
-Este repositorio existe para que puedan sugerir temas a tratar en los próximos episodios. Para sugerir temas simplemente crear un [issue](https://github.com/standuplatam/links/issues/new) indicando:
+Este repositorio existe para que puedan sugerir temas a tratar en los próximos episodios. Para sugerir temas simplemente crear un [issue](https://github.com/standuplatam/temas/issues/new) indicando:
 
 - Titulo del tema
 - Descripción del tema
